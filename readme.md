@@ -1,4 +1,6 @@
-#Git Notes#
+Git Notes
+=========
+
 1. `git add *.html` -> add all the html file to staging area
 2. `git add --all `-> add all the changes in this project to staging area
 3. `git add .`-> add all the changes of cuurent folder to staging area 

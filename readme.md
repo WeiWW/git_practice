@@ -1,4 +1,4 @@
-#Git Notes
+#Git Notes#
 1. `git add *.html` -> add all the html file to staging area
 2. `git add --all `-> add all the changes in this project to staging area
 3. `git add .`-> add all the changes of cuurent folder to staging area 
@@ -21,7 +21,9 @@
 20. `git checkout filename` -> restore file
 21. `git checkout .` -> restore all
 22. `git reset SHA-1` -> back to this commit
-23. 模式|Commit 拆出來的檔案
+23. 
+
+ 模式|Commit 拆出來的檔案
 ------------ | ------------- 
 mixed 模式（預設)|丟回工作目錄
   soft 模式|丟回暫存區
